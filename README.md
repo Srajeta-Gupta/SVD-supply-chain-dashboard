@@ -8,10 +8,13 @@
 
 `streamlit run webapp.py`
 
-### Docker run commands
+### Docker run commands [For Deployments]
 
-`docker build -t app .`
-`docker run -p 8051:8051 app`
+Install Docker engine
+
+> `docker build -t app .` 
+
+> `docker run -p 8501:8501 app`
 
 ### For Datasets
 
